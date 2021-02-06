@@ -403,7 +403,10 @@ body{
 .copy_company{
   font-size: 1.6rem;
 }
-.main-copy{
+.main-copy1{
+  font-size: 1.8rem;
+}
+.main-copy2{
   font-size: 5.4rem;
 }
 
@@ -432,11 +435,12 @@ body{
   padding: 0 4vw;
 }
 .s-section-wrapper{
+  padding: 20px 0;
   width: 520px;
   max-width: 100%;
 }
 .s-section-wrapper:first-of-type{
-  margin-bottom: 80px;
+  margin-bottom: 5px;
 }
 
 /* ----------------------- */
