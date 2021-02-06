@@ -262,7 +262,7 @@ body.noscroll{
 
 }
 .about-bg{
-  background-image: url(../images/about-img.jpg);
+  background-image: url(about-img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
