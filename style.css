@@ -205,12 +205,12 @@ body.noscroll{
   background-color: #0b3c5d;
   width: 40%;
   height: 100%;
-  z-index: -1;
+  z-index: 1;
 }
 .kv-wrapper{
   height: 86.5%;
   width: 76.4%;
-  background-image: url(./portrait.JPG);
+  background-image: url(./kv-img.jpg);
   background-size: cover;
   background-position: center 0;
   position: relative;
